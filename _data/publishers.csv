@@ -1,0 +1,4 @@
+publisher_name,publisher_url,publisher_region,sells_ebooks,sells_drm_free_ebooks,notes
+Rakuten Kobo,https://www.kobo.com/,world,true,false,Ebooks only available for Kobo e-readers
+Barnes & Noble,https://www.barnesandnoble.com/,US,true,false,Ebooks only available for Nook e-readers
+Waterstones,https://www.waterstones.com/,"UK,EU",false,false,Digital store has closed. Existing ebooks transferred to Kobo
