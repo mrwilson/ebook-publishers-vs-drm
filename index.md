@@ -16,7 +16,8 @@ layout: default
     </tr>
   </thead>
   <tbody>
-{% for entry in site.data.publishers %}
+{% assign publishers = site.data.publishers | sort: "publisher_name" %}
+{% for entry in publishers %}
     <tr>
       <th scope="row"><a href="{{ entry.publisher_url }}">{{ entry.publisher_name }}</a></th>
       <td>{{ entry.publisher_region }}</td>
