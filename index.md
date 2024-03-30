@@ -9,7 +9,6 @@ layout: default
   <thead>
     <tr>
       <th scope="col">Name</th>
-      <th scope="col">URL</th>
       <th scope="col">Region(s)</th>
       <th scope="col">Sells Ebooks</th>
       <th scope="col">Sells DRM-free Ebooks</th>
@@ -19,8 +18,7 @@ layout: default
   <tbody>
 {% for entry in site.data.publishers %}
     <tr>
-      <th scope="row">{{ entry.publisher_name }}</th>
-      <td>{{ entry.publisher_url }}</td>
+      <th scope="row"><a href="{{ entry.publisher_url }}">{{ entry.publisher_name }}</a></th>
       <td>{{ entry.publisher_region }}</td>
       <td>{{ entry.sells_ebooks }}</td>
       <td>{{ entry.sells_drm_free_ebooks }}</td>
