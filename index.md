@@ -3,9 +3,6 @@ layout: default
 ---
 
 <table>
-  <caption>
-    Which publishers have DRM?
-  </caption>
   <thead>
     <tr>
       <th scope="col">Name</th>
@@ -28,4 +25,6 @@ layout: default
 {% endfor %}
   </tbody>
 </table>
+
+Download the raw data CSV <a href="https://github.com/mrwilson/ebook-publishers-vs-drm/blob/main/_data/publishers.csv">here</a>
 
