@@ -6,3 +6,6 @@ Standard Ebooks,https://standardebooks.org/,world,true,true,Provides generic .ep
 Project Gutenberg,https://www.gutenberg.org/,world,true,true,
 Baen Books,https://www.baen.com/,world,true,true,"From their FAQ: Baen is committed to remaining free of Digital Rights Management (DRM)."
 Smashwords,https://www.smashwords.com/,world,true,true,"From their FAQ: All books are DRM-free"
+Book View Cafe,https://bookviewcafe.com/,world,true,true,"From their reading page: All BVC books are DRM-free and can be loaded onto most devices."
+Amazon,https://www.amazon.com/,US,true,false,Only sells ebooks for the proprietary Kindle
+Hive,https://www.hive.co.uk/,UK,true,false,Requires buyer to install and use Adobe Digital Editions
