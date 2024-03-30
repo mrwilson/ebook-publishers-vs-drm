@@ -2,3 +2,7 @@ publisher_name,publisher_url,publisher_region,sells_ebooks,sells_drm_free_ebooks
 Rakuten Kobo,https://www.kobo.com/,world,true,false,Ebooks only available for Kobo e-readers
 Barnes & Noble,https://www.barnesandnoble.com/,US,true,false,Ebooks only available for Nook e-readers
 Waterstones,https://www.waterstones.com/,"UK,EU",false,false,Digital store has closed. Existing ebooks transferred to Kobo
+Standard Ebooks,https://standardebooks.org/,world,true,true,Provides generic .epub in addition to ebooks optimised for Kindle and Kobo
+Project Gutenberg,https://www.gutenberg.org/,world,true,true,
+Baen Books,https://www.baen.com/,world,true,true,"From their FAQ: Baen is committed to remaining free of Digital Rights Management (DRM)."
+Smashwords,https://www.smashwords.com/,world,true,true,"From their FAQ: All books are DRM-free"
