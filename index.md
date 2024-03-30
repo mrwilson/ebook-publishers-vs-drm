@@ -2,10 +2,6 @@
 layout: default
 ---
 
-# Which e-book publishers have DRM?
-
-## Publishers
-
 <table>
   <caption>
     Which publishers have DRM?
