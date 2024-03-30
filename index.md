@@ -23,8 +23,7 @@ layout: default
   <tbody>
 {% for entry in site.data.publishers %}
     <tr>
-      <th scope="row">entry.publisher_name</th>
-      <td>{{ entry.publisher_name }}</td>
+      <th scope="row">{{ entry.publisher_name }}</th>
       <td>{{ entry.publisher_url }}</td>
       <td>{{ entry.publisher_region }}</td>
       <td>{{ entry.sells_ebooks }}</td>
