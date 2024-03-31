@@ -26,5 +26,5 @@ layout: default
   </tbody>
 </table>
 
-Download the raw data CSV <a href="https://github.com/mrwilson/ebook-publishers-vs-drm/blob/main/_data/publishers.csv">here</a>
+Download the raw data as <a href="https://github.com/mrwilson/ebook-publishers-vs-drm/blob/main/_data/publishers.csv">CSV</a> or <a href="{{ site.url }}/data.json">JSON</a>
 

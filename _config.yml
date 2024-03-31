@@ -1,4 +1,4 @@
 name: Which ebook publishers have DRM?
-url: https://mrwilson.github.io/ebook-publishers-vs-drm/
+url: https://mrwilson.github.io/ebook-publishers-vs-drm
 baseurl: "/"
 markdown: kramdown
