@@ -1,0 +1,10 @@
+---
+layout: none
+---
+[
+{% assign publishers = site.data.publishers | sort: "publisher_name" %}
+{%- for entry in publishers -%}
+{{- entry | jsonify }}
+{%- unless forloop.last -%},{%- endunless -%}
+{% endfor -%}
+]
