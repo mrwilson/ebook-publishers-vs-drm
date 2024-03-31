@@ -1,5 +1,5 @@
 publisher_name,publisher_url,publisher_region,sells_ebooks,sells_drm_free_ebooks,notes
-Rakuten Kobo,https://www.kobo.com/,world,true,false,Ebooks only available for Kobo e-readers
+Rakuten Kobo,https://www.kobo.com/,world,true,false,Generally only available for Kobo e-readers, DRM-free at publisher request
 Barnes & Noble,https://www.barnesandnoble.com/,US,true,false,Ebooks only available for Nook e-readers
 Waterstones,https://www.waterstones.com/,"UK,EU",false,false,Digital store has closed. Existing ebooks transferred to Kobo
 Standard Ebooks,https://standardebooks.org/,world,true,true,Provides generic .epub in addition to ebooks optimised for Kindle and Kobo
@@ -13,3 +13,8 @@ Booktopia,https://www.booktopia.com.au/,AU,true,false,Requires Booktopia app or 
 International Institute of Marine Surveying,https://www.iims.org.uk/product-category/ebooks/,"UK,AU,CA,IN,NZ,NG,AE",true,true,Books distributed as PDFs
 KaitenBooks,https://www.kaitenbooks.com,world,true,true,"Independent Manga localiser and publisher, provides PDF, EBUB, CBZ and ZIP of images."
 Star Fruit Books,https://starfruitbooks.com/,world,true,true,"Independent US-based Manga publisher. Some products have Digital versions, format varies but usually a CBZ or PDF, always DRM free."
+No Starch Press,https://nostarch.com/,world,true,true,"From their FAQ: All of our ebooks are DRM-free."
+Verso,https://www.versobooks.com/,world,true,true,"eBooks purchased from the Verso website are watermarked and DRM-free."
+A Book Apart,https://abookapart.com/,world,true,true,Distributes DRM-free ebooks and PDFs
+Boss Fight Books,https://bossfightbooks.com/,world,true,true,"From their About page: Each book is released simultaneously in paperback and as an DRM-free ebook"
+Google Books,https://books.google.com/,world,true,false,"Only DRM-free if author requests"
